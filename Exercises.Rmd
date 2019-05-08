@@ -41,3 +41,9 @@ length(x)
 str(y)
 ```
 
+4. How do you generate 10 normal variables with mean 5 and standard deviation 3?
+```{r eval=FALSE}
+rnorm(10, mean = 5, sd = 3)
+rnorm(10, 5, 3)
+```
+
