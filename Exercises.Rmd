@@ -36,3 +36,8 @@ any(x > 10)
 length(x)
 ```
 
+3. How do you return the structure of an R object `y`?
+```{r eval=FALSE}
+str(y)
+```
+
