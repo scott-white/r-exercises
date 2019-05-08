@@ -31,3 +31,8 @@ One of the things people have difficulty with when learning a new programming la
 any(x > 10)
 ```
 
+2. Return the number of elements in the vecot `x`.
+```{r eval = FALSE}
+length(x)
+```
+
